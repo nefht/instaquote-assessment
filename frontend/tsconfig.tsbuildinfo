@@ -1,0 +1,14 @@
+{
+  "root": [
+    "./src/app.tsx",
+    "./src/main.tsx",
+    "./src/vite-env.d.ts",
+    "./src/components/evidencepanel.tsx",
+    "./src/components/filedropzone.tsx",
+    "./src/components/lineitemcard.tsx",
+    "./src/components/refusalcard.tsx",
+    "./src/services/extractionapi.ts",
+    "./src/types/extraction.ts"
+  ],
+  "version": "5.9.3"
+}
